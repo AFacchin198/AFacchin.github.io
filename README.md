@@ -5,8 +5,8 @@
 		<meta name="viewport" content="width=device-width" />
 		<meta name="description" content="ePortfolio for Alexander Facchin" />
 		<meta charset="utf-8">
-			<link type="text/css" rel="stylesheet" href="personalprofilestyle.css"/>
-				<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap" rel="stylesheet"/>
+			<link type="text/css" rel="stylesheet" href="personalprofilestyle.css">
+				
 				</head>
 				<body id=top>
 					<div id=CV class="instaFade">
