@@ -6,7 +6,7 @@
 		<meta name="description" content="ePortfolio for Alexander Facchin" />
 		<meta charset="utf-8">
 			<link type="text/css" rel="stylesheet" href="personalprofilestyle.css">
-				
+			<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap" rel="stylesheet">	
 				</head>
 				<body id=top>
 					<div id=CV class="instaFade">
