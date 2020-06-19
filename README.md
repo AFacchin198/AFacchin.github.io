@@ -6,10 +6,10 @@
 		<meta name="description" content="ePortfolio for Alexander Facchin" />
 		<meta charset="utf-8">
 			<link type="text/css" rel="stylesheet" href="personalprofilestyle.css">
-			<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap" rel="stylesheet">	
+				<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap" rel="stylesheet">
 				</head>
 				<body id=top>
-					<div id=CV class="instaFade">
+					<div id="cv" class="instaFade">
 						<div class="mainDetails">
 							<div id="headshot" class="quickFade">
 								<img src="Alex Facchin Headshot.jpg" alt="Alexander Facchin"/>
@@ -249,29 +249,40 @@
 																				<div class="sectionContent">
 																					<arcticle>
 																						<h2> Overview </h2>
-																						<p></p>
+																						<p>The project that I have decided to work on is a face detection system designed to detect individuals that enter buildings without a face mask. I believe that this is essential in minimising the spread of COVID-19. The project will decide whether an individual can be allowed in public areas where there are a higher concentration of individuals. Some of the areas that the device could be used include; hospitals, restaurants, bars & airports. </p>
 																					</article>
 																					<article>
 																						<h2> Motivation </h2>
-																						<p></p>
+																						<p>During a pandemic, in search of a cure, prevention is equally as important as a cure. Medical professionals have provided measures and outlines that assist in the prevention and spread of COVID-19. One of the essential solutions to slow the spread of the virus is to wear face masks. With countries moving in the right direction to curbing the spread of the virus, it is still imperative to take necessary precautions to avoid an increase in the spread and the number of individuals that get infected. My motivation to pursue this project is to provide a piece of technology that allows the integration of individuals back into society whilst providing a solution to safely do so. According to the MRC Centre for Global Infections Disease Analysis at the Imperial College London, COVID-19 has an infection rate of 1.5 to 3.5 times the number of infected people daily. </p>
 																					</article>
 																					<article>
 																						<h2> Description </h2>
-																						<p></p>
+																						<p>The system will be designed to detect the faces of individuals and to determine whether the person is wearing a face mask or not. If the face mask detector application identifies a user that he/she was not wearing a mask, AI alerts are sent with the picture of the person. It allows the application to run automatically and enforces the wearing of the mask. In situations where the application recognised an individual not wearing a mask, or the face captured by the camera is unrecognised, notifications are sent to the interested parties to allow them to take appropriate action. I have chosen the NVIDIA Jetson Nano to use as the brains of the device over the Raspberry Pi for this project. I anticipate that for functioning facial recognition, it will require some dependence on a Graphics Processing Unit (GPU). It will allow me to correctly process image classification, object detection, segmentation and speech processing.</p>
+																						</div>
+
 																					</article>
 																					<article>
 																						<h2> Tools and Technologies </h2>
-																						<p></p>
+																						<p>There are several pieces of hardware and software I believe would be needed for this project to succeed. The hardware/software required include the following:</p>
+																						<div class="sectionContent">
+																							<ul class="keySkills">
+																								<li> NVIDIA Jetson Nano</li>
+												  											<li> MicroSD Card</li>
+																								<li> Power Supply</li>
+																								<li> USB Cables</li>
+																								<li> USB Camera</li>
+																								<li> Coding in Python</li>
+																								<li> PyTorch Machine Learning Software</li>
+																						</div>
 																					</article>
+																					<div class="clear"></div>
 																					<article>
 																						<h2> Skills Required </h2>
-																						<p></p>
+																						<p>The technical skills that will be required for this project is the ability to code in python and assembly of computer hardware parts. I believe the most challenging part of this project will be the coding in python and coding a script for machine learning, yet I do believe it can be self-taught. The software that is needed is all open-source and free and the hardware would be able to be purchased off Amazon for approximately $90 USD. </p>
 																					</article>
 																					<article>
 																						<h2> Outcome </h2>
-																						<p></p>
+																						<p>If the project is successful, it will allow businesses and public areas that require individuals to wear face masks to monitor these individuals entering the space. It will allow a safer (but not completely solve the issue of COVID-19) environment for individuals to congregate. At this point in time, monitoring of individuals to ensure that they have adequate protective equipment on to provide a safer environment for others must be monitored by other individuals. With the development of a facial recognition system, it allows to minimise interaction between people to enforce safety requirements.</p>
 																					</article>
 																				</body>
 																			</html>
-
-		
