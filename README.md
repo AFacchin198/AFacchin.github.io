@@ -258,13 +258,8 @@
 																					<article>
 																						<h2> Description </h2>
 																						<p>The system will be designed to detect the faces of individuals and to determine whether the person is wearing a face mask or not. If the face mask detector application identifies a user that he/she was not wearing a mask, AI alerts are sent with the picture of the person. It allows the application to run automatically and enforces the wearing of the mask. In situations where the application recognised an individual not wearing a mask, or the face captured by the camera is unrecognised, notifications are sent to the interested parties to allow them to take appropriate action. I have chosen the NVIDIA Jetson Nano to use as the brains of the device over the Raspberry Pi for this project. I anticipate that for functioning facial recognition, it will require some dependence on a Graphics Processing Unit (GPU). It will allow me to correctly process image classification, object detection, segmentation and speech processing.</p>
-																						</div>
 																					</article>
 
-																					<div class="clear">
-																					</div>
-
-																					
 																					<article>
 																						<h2> Tools and Technologies </h2>
 																						<p>There are several pieces of hardware and software I believe would be needed for this project to succeed. The hardware/software required include the following:</p>
